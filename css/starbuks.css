@@ -8,7 +8,7 @@ transition: 1s;
 .Dark
 {
     overflow: hidden;
-    background-color: #00704A; 
+    background: #00704A; 
     transition: 1s;    
 }
 div .nav
