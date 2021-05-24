@@ -131,6 +131,7 @@ div .img img
         text-align: center;
         visibility: visible;
         opacity:1;
+        margin:20px;
     }   
     div .bar-menu
     {
