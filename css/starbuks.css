@@ -1,15 +1,13 @@
 .Light 
 {
     overflow-x: hidden;
-    overflow-y: auto;
-    min-height: 100vh;
+    min-height: 120vh;
     background: linear-gradient(180deg,white,white,rgba(158, 158, 158, 0.753)); 
     transition: 1s;
 }
 .Dark
 {
     overflow-x: hidden;
-    overflow-y: auto;
     overflow: hidden;
     background: #00704A; 
     transition: 1s;    
@@ -115,10 +113,6 @@ div .img img
     { 
       visibility: hidden;
     } 
-    .blur
-    {
-        background-color:}
-    
     div .nav2
     {      
         transition: 1.5s;
