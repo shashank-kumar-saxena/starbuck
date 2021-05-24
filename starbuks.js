@@ -2,8 +2,6 @@ function show()
 {
    var nav=document.getElementById("navigation");
     nav.classList.toggle("nav2");
-    var body=document.querySelector(".Light");
-    body.classList.toggle("blur");
 }
 function dark()
 {
