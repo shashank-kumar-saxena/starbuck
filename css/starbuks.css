@@ -1,7 +1,7 @@
 .Light 
 {
     overflow-x: hidden;
-    min-height: 120vh;
+    min-height: 100vh;
     background: linear-gradient(180deg,white,white,rgba(158, 158, 158, 0.753)); 
     transition: 1s;
 }
@@ -9,6 +9,7 @@
 {
     overflow-x: hidden;
     overflow: hidden;
+    min-height: 100vh;
     background: #00704A; 
     transition: 1s;    
 }
